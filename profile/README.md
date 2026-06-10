@@ -27,7 +27,7 @@
 ## 💁 개발팀 소개
 |      김유정      |      민유빈      |      김정은      |      강이서      |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| [@ujjeong412](https://github.com/ujjeong412) | [@minibxx](https://github.com/minibxx) | [@wjdsilver](https://github.com/wjdsilver) |  [@hynj1n](https://github.com/hynjin)|
+| [@ujjeong412](https://github.com/ujjeong412) | [@minibxx](https://github.com/minibxx) | [@wjdsilver](https://github.com/wjdsilver) |  |
 |      Web Design / Unreal       |     Frontend     |     Backend / Gaze AI     |   Backend / Voice AI   |
 <br>
 
