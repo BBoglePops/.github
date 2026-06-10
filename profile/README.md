@@ -1,6 +1,6 @@
 # 🎤 똑부러지는 취업, 똑바른 자세부터 똑똑
 <div align="center"> 
-  <img width="2160" height="1080" alt="Instagram post - 3" src="https://github.com/user-attachments/assets/26e15ab7-d8a1-4eef-a74f-bc03377548d1" /></br> 
+  <img width="540 alt="Instagram post - 3" src="https://github.com/user-attachments/assets/26e15ab7-d8a1-4eef-a74f-bc03377548d1" /></br> 
   <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=BBoglePops&style=for-the-badge&color=232F3E&label=++HI+THERE+👋++" alt="view counter"/> 
   </a> </div></br>
