@@ -11,6 +11,7 @@
 2024.03 ~ 2024.10
 
 </br>
+
 ## 프로젝트 소개
 
 팀명 : BBoglePops(뽀글팝스) </br>
@@ -33,12 +34,15 @@
 
 ## 서비스 구성도
 <img width="100%" src="시스템구성도URL"/> <br>
+
 ## 시스템 흐름도
 <img width="100%" src="시스템흐름도URL"/> <br>
+
 ## 깃허브 산출물 [Repositories]
 [Repository URL](https://github.com/BBoglePops/Front-Back) </br>
 
 </br>
+
 ## 🖥️ Stack
 ### Used Language
 <p align="left"> 
@@ -68,6 +72,7 @@
 ![GoogleMeet](https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=Google%20Meet&logoColor=white)
 
 <br>
+
 ## 프로젝트 설명
 ### 목적
 
@@ -78,8 +83,6 @@
 ▪️ 면접 태도 개선을 위한 반복 학습 환경을 구축한다.<br><br>
 
 ### ⭐ 주요기능
-
-*추가적인 내용은 각 Repository에서 확인 가능<br><br>
 
 #### ◾ 시선 분석
 >**by정은 [Gaze Tracking](https://github.com/BBoglePops/Back_AI_connect_JE)** <br/>
