@@ -34,10 +34,10 @@
 ## 2024 이브와 ICT멘토링 입상
 
 ## 서비스 구성도
-<img width="100%" src="시스템구성도URL"/> <br>
+<img width="9720" height="5763" alt="구성도" src="https://github.com/user-attachments/assets/3074d50d-a173-42c0-bed8-eef893b5af59" /> <br>
 
 ## 시스템 흐름도
-<img width="100%" src="시스템흐름도URL"/> <br>
+<img width="5626" height="4583" alt="최종본" src="https://github.com/user-attachments/assets/b6c03afe-bf4e-4b89-b019-5380b833d18f" /> <br>
 
 ## 깃허브 산출물 [Repositories]
 [Repository URL](https://github.com/BBoglePops/Front-Back) </br>
